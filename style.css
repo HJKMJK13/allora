@@ -21,5 +21,47 @@ img{
 .container{
     width: 1140px;
     margin: 0 auto;
+
+}
+
+.nav_item hr{
+    width: 40px;
+}
+
+.nav_item .gor_2{
+    width: 110px;
+}
+
+.nav_item .gor_1{
+    width: 90px;
+}
+
+.nav_item .gor_3{
+    width: 70px;
+}
+
+.navbar .container .box_1{
+    display: flex;
+    justify-content: space-around;
+}
+
+.nav_list{
+    display: flex;
     
 }
+
+.nav_item{
+    margin-right: 20px;
+}
+
+.nav_item input{
+  width: 5px;
+  height: 5px;
+  background-color: gray;
+}
+
+.nav_item p{
+color: #373C42;
+font-size: 13px;
+}
+
