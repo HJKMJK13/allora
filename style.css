@@ -455,15 +455,13 @@ hr{
 }
 
 .goal_list .goal_item3 .goal_text2{
-    display: inline-block;
-    
+    display: inline-block; 
 }
 
 .goal_list .goal_item4 .goal_text1{
     display: inline-block;
     margin-left: 700px;
     padding-top: 20px;
-
 }
 
 .goal_list .goal_item4 .goal_text2{
@@ -475,7 +473,6 @@ hr{
     margin-left: 300px;
     margin-top: 20px;
     margin-bottom: 20px;
-
 }
 
 .goal_list .goal_item5 .goal_text2{
@@ -487,8 +484,6 @@ hr{
     margin-left: 30px;
     margin-top: 20px;
     margin-bottom: 20px;
-    
-
 }
 
 .goal_list .goal_item6 .goal_text2{
