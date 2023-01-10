@@ -517,3 +517,93 @@ hr{
 .goal_text2{
     color: #373C42;
 }
+
+.our{
+ background-color:  #8372F0;
+ background-size: 100%;
+}
+
+.our_small_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    margin-top: 20px;
+}
+
+.our_small_box p{
+    color: white;
+    text-transform: uppercase;
+}
+
+.our_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.our_box1{
+    width: 500px;
+
+}
+
+.our_box2 img{
+    margin-top: 100px;
+    height: 650px;
+}
+
+.our_box1 h2{
+    margin-top: 20px;
+    color: white;
+}
+
+.our_box1 .our_text{
+    margin-top: 20px;
+    color: white;
+}
+
+.our_box1 h6{
+  color: white;
+  margin-top: 30px;
+  border-bottom: 1px solid white;
+  width: 80px;
+}
+
+.our .container{
+    position: relative;
+}
+
+.box1{
+    width: 400px;
+    height: 190px;
+    background-color: white;
+    position: absolute;
+    top: 65%;
+    left: 35%;
+}
+
+.box1_list{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-top: 50px;
+    width: 250px;
+}
+.box1_text{
+    padding-top: 20px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.box1_item{
+    margin-left: 20px;
+}
+
+.box2{
+    width: 400px;
+    height: 190px;
+    background-color: white;
+    position: absolute;
+    top: 35%;
+    left: 70%;
+}
