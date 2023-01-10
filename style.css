@@ -342,10 +342,25 @@ hr{
     display: flex;
     align-items: center;
     flex-wrap: wrap;
+    margin-top: 40px;
     
 }
 
 .less_list .less_item{
     width: 300px;
     padding-left: 40px;
+}
+
+.less_item img{
+  margin-bottom: 20px;
+}
+
+.less_item h3{
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+.less_item p{
+    color: #373C42;
+    
 }
