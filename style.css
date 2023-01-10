@@ -347,7 +347,7 @@ hr{
 }
 
 .less_list .less_item{
-    width: 300px;
+    width: 360px;
     padding-left: 40px;
 }
 
@@ -358,9 +358,9 @@ hr{
 .less_item h3{
     margin-top: 15px;
     margin-bottom: 15px;
+    color: #373C42;
 }
 
 .less_item p{
-    color: #373C42;
-    
+    color: #373C42;   
 }
