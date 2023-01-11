@@ -923,3 +923,71 @@ margin-left: 30px;
 .serve_bigbox{
     margin-top: 30px;
 }
+
+.work_list{
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    align-items: center;
+    justify-content:space-between;
+    width: 600px;
+}
+
+.work_item1{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 90px;
+}
+
+.work_text{
+    color: #373C42;
+    text-align: center;
+    margin-top: 30px;
+}
+
+.work_item1 img{
+ width: 5px;
+ height: 5px;
+}
+
+.work_item2 img{
+ width: 5px;
+ height: 5px;
+}
+
+.work_item2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 150px;
+}
+
+.work_list2{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 350px;
+    margin-top: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.work_itemmm img{
+  width:5px;
+  height: 5px;
+
+}
+
+.work_itemmm{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 150px;
+}
+
+
+.work_link{
+    color: #373C42;
+}
