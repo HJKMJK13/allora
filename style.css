@@ -773,3 +773,38 @@ color:#373C42 ;
     height: 500px;
     margin-top: 30px;
 }
+
+.serve{
+    margin-top: 30px;
+}
+
+.serve_small_box{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 200px;
+    margin-top: 80px;
+}
+
+.serve_small_box p{
+    text-transform: uppercase;
+    color: #373C42;
+}
+
+.serve_text{
+    margin-top: 30px;
+    font-size: 40px;
+    color: #373C42;
+    width: 360px;
+}
+
+.serve_matn{
+    color: #373C42;
+    margin-top: 30px;
+    width: 400px;
+}
+
+.serve_box1{
+    background-color:  #9181FF;
+    
+}
