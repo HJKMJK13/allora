@@ -806,5 +806,23 @@ color:#373C42 ;
 
 .serve_box1{
     background-color:  #9181FF;
-    
+    width: 670px;
+    height: 560px;
+}
+.serve_input1{
+    display: block;
+    margin-top: 20px;
+    width: 480px;
+    height: 50px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.serve_input2{
+    margin-top: 20px;
+    width: 480px;
+    height: 130px;
+    margin-left: auto;
+    margin-right: auto;
 }
